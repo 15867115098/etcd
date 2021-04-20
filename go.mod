@@ -19,7 +19,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/spf13/cobra v1.1.1
-	go.etcd.io/bbolt v1.3.5
+	github.com/coreos/bbolt v1.3.5
 	go.etcd.io/etcd/api/v3 v3.5.0-alpha.0
 	go.etcd.io/etcd/client/pkg/v3 v3.5.0-alpha.0
 	go.etcd.io/etcd/client/v2 v2.305.0-alpha.0
